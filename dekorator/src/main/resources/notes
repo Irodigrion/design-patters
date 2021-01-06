@@ -1,0 +1,4 @@
+- Decorating objects are the same as decorated objects
+- One main object (main product eg. CafeSpecial or Espresso) cam be wrapped with one or multiple decorators
+- Thanks to decorators and decorated objects are of the same type, we can pass as an argument object which is already decorated instead of original (not decorated) object
+- Decorator adds its own behaviour before or/and after delegating to decorated object.
